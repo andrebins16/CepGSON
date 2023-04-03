@@ -5,7 +5,6 @@ import java.net.http.HttpClient;
 import java.net.http.HttpRequest; 
 import java.net.http.HttpResponse;
 import java.time.Duration;
-import java.util.ArrayList;
 import java.util.Scanner;
 import static java.time.temporal.ChronoUnit.MINUTES;
 import com.google.gson.Gson;
